@@ -1,5 +1,5 @@
 # Redirector plugin for MODx Evolution
-This plugin will redirect allows the use of short ID-URLs (e.g. http://modx.com/167) in parallel to user friendly URLs. Technically it examines every URL, for which MODx was not able to find a resource itself, and redirects to the resource with the corresponding id.
+This plugin will redirect allows the use of short ID-URLs (e.g. http&#8203;//modx.&#8203com/167) in parallel to user friendly URLs. Technically it examines every URL, for which MODx was not able to find a resource itself, and redirects to the resource with the corresponding id.
 
 ##Installation
 1) Copy the included assets folder to the root of your MODx installation. This will add the Redirector to the plugins folder
