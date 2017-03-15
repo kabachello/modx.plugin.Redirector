@@ -9,6 +9,7 @@
  * @documentation Readme https://github.com/kabachello/modx.plugin.Redirector/blob/master/README.md
  * @internal    @events OnPageNotFound
  * @internal    @modx_category Navigation
+ * @internal    @installset base, sample
  * @author		kabachello
  * @lastupdate  24/01/2017
  */
